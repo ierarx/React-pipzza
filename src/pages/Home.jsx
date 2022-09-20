@@ -98,7 +98,7 @@ const Home = () => {
     // const { searchValue } = useContext(SearchContext)
 
     const pizzas = item.map((obj) => <PizzaBlock key={obj.id} {...obj} />)
-    const Skeletons = [...new Array(8)].map((_, index) => (
+    const Skeletons = [...new Array(4)].map((_, index) => (
         <Skeleton key={index} />
     ))
 
@@ -128,7 +128,7 @@ const Home = () => {
             <div className="content__items">
                 {isLoading ? Skeletons : pizzas}
             </div>
-            <Pagination valbe={currentPage} onChangePage={onChangePage} />
+            <Pagination value={currentPage} onChangePage={onChangePage} />
         </>
     )
 }

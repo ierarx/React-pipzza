@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcbe365d-3a64-40b2-b1b0-345e5958aa0c" name="Changes" comment="favicon commit">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/assets/img/pizza-logo.svg" />
+    </disable_hints>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="2ACwREjv4ydwvwxeTyQhTovhUJH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.38" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Ysk\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="E:\PhpStorm-2021.2\PhpStorm 2021.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\react-pizza\public" />
+      <recent name="E:\react-pizza\src\components\PizzaBlock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\react-pizza\src" />
+      <recent name="E:\react-pizza\src\redux\slices" />
+      <recent name="E:\react-pizza\src\components\pizzaBlock" />
+      <recent name="E:\react-pizza\src\assets" />
+      <recent name="E:\react-pizza\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Search/index.jsx" working-dir="$PROJECT_DIR$/src/components/Search">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcbe365d-3a64-40b2-b1b0-345e5958aa0c" name="Changes" comment="" />
+      <created>1654526864672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654526864672</updated>
+      <workItem from="1654526866921" duration="2531000" />
+      <workItem from="1654531289842" duration="3663000" />
+      <workItem from="1654541887512" duration="2273000" />
+      <workItem from="1654544194580" duration="686000" />
+      <workItem from="1654544899429" duration="2392000" />
+      <workItem from="1654610768993" duration="7753000" />
+      <workItem from="1654618843149" duration="470000" />
+      <workItem from="1655277083817" duration="421000" />
+      <workItem from="1655277589565" duration="6345000" />
+      <workItem from="1655299249518" duration="8034000" />
+      <workItem from="1655468318519" duration="13727000" />
+      <workItem from="1655548797999" duration="4764000" />
+      <workItem from="1655567517634" duration="11962000" />
+      <workItem from="1655656186045" duration="217000" />
+      <workItem from="1655735371321" duration="6149000" />
+      <workItem from="1655817615187" duration="3472000" />
+      <workItem from="1655898818811" duration="6736000" />
+      <workItem from="1655984124775" duration="14948000" />
+      <workItem from="1656014337422" duration="4411000" />
+      <workItem from="1656068309396" duration="7057000" />
+      <workItem from="1656939579423" duration="500000" />
+      <workItem from="1656940422664" duration="23000" />
+      <workItem from="1656940684106" duration="8769000" />
+      <workItem from="1656950560819" duration="300000" />
+      <workItem from="1656950879425" duration="742000" />
+      <workItem from="1656951642318" duration="3478000" />
+      <workItem from="1657106849346" duration="16191000" />
+      <workItem from="1657202417105" duration="12502000" />
+      <workItem from="1657267630328" duration="3442000" />
+      <workItem from="1657287231751" duration="5264000" />
+      <workItem from="1657308765780" duration="2634000" />
+      <workItem from="1657458632876" duration="636000" />
+      <workItem from="1657630772741" duration="11076000" />
+      <workItem from="1657716141256" duration="6712000" />
+      <workItem from="1657816129073" duration="8265000" />
+      <workItem from="1657828075690" duration="176000" />
+      <workItem from="1657991317414" duration="4554000" />
+      <workItem from="1658044408733" duration="20275000" />
+      <workItem from="1658152886709" duration="5539000" />
+      <workItem from="1658220379668" duration="5331000" />
+      <workItem from="1658323447958" duration="12075000" />
+      <workItem from="1658348140147" duration="611000" />
+      <workItem from="1658410584831" duration="22642000" />
+      <workItem from="1658476104877" duration="7471000" />
+      <workItem from="1658504390128" duration="7577000" />
+      <workItem from="1658562915636" duration="5197000" />
+      <workItem from="1658584418130" duration="11637000" />
+      <workItem from="1659211539046" duration="342000" />
+      <workItem from="1659212521785" duration="26000" />
+      <workItem from="1659303117184" duration="378000" />
+      <workItem from="1659429808262" duration="38000" />
+      <workItem from="1661502500870" duration="27000" />
+      <workItem from="1661762453566" duration="2434000" />
+      <workItem from="1661874744006" duration="26000" />
+      <workItem from="1661936081467" duration="752000" />
+      <workItem from="1663165570688" duration="4479000" />
+      <workItem from="1663330198335" duration="1896000" />
+      <workItem from="1663590271678" duration="5581000" />
+      <workItem from="1663600406311" duration="14384000" />
+    </task>
+    <task id="LOCAL-00001" summary="last view">
+      <created>1663330407659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663330407659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last commit">
+      <created>1663590371206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663590371206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="last view" />
+    <MESSAGE value="last commit" />
+    <MESSAGE value="favicon commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="favicon commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
